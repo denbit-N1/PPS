@@ -1,3 +1,8 @@
+
+
+// concatenate two strings without using strcat() function
+
+
 #include<stdio.h>
 int main()
 {
