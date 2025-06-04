@@ -1,3 +1,8 @@
+
+
+// Check armstrong number
+
+
 #include<stdio.h>
 int main()
 {
