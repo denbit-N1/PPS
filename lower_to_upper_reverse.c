@@ -1,3 +1,7 @@
+
+
+// input upper case and output lower case and its reverse
+
 #include<stdio.h>
 int main()
 {

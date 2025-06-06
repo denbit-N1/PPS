@@ -1,3 +1,7 @@
+
+
+// check lower case letter or not
+
 #include<stdio.h>
 int main()
 {

@@ -1,3 +1,7 @@
+
+
+// multiply two numbers without using multiplication operator
+
 #include<stdio.h>
 int main()
 {

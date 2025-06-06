@@ -1,3 +1,7 @@
+
+
+// sum of digit 
+
 #include<stdio.h>
 int digit(int num, int sum)
 {
